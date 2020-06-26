@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "solidConsoleDemo/1.0.0": {
+        "runtime": {
+          "solidConsoleDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "solidConsoleDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

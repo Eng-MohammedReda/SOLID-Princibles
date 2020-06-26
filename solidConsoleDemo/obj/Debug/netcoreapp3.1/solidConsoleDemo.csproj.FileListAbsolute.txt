@@ -1,0 +1,13 @@
+C:\Users\mreda\solidConsoleDemo\obj\Debug\netcoreapp3.1\solidConsoleDemo.csprojAssemblyReference.cache
+C:\Users\mreda\solidConsoleDemo\obj\Debug\netcoreapp3.1\solidConsoleDemo.AssemblyInfoInputs.cache
+C:\Users\mreda\solidConsoleDemo\obj\Debug\netcoreapp3.1\solidConsoleDemo.AssemblyInfo.cs
+C:\Users\mreda\solidConsoleDemo\obj\Debug\netcoreapp3.1\solidConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\mreda\solidConsoleDemo\bin\Debug\netcoreapp3.1\solidConsoleDemo.exe
+C:\Users\mreda\solidConsoleDemo\bin\Debug\netcoreapp3.1\solidConsoleDemo.deps.json
+C:\Users\mreda\solidConsoleDemo\bin\Debug\netcoreapp3.1\solidConsoleDemo.runtimeconfig.json
+C:\Users\mreda\solidConsoleDemo\bin\Debug\netcoreapp3.1\solidConsoleDemo.runtimeconfig.dev.json
+C:\Users\mreda\solidConsoleDemo\bin\Debug\netcoreapp3.1\solidConsoleDemo.dll
+C:\Users\mreda\solidConsoleDemo\bin\Debug\netcoreapp3.1\solidConsoleDemo.pdb
+C:\Users\mreda\solidConsoleDemo\obj\Debug\netcoreapp3.1\solidConsoleDemo.dll
+C:\Users\mreda\solidConsoleDemo\obj\Debug\netcoreapp3.1\solidConsoleDemo.pdb
+C:\Users\mreda\solidConsoleDemo\obj\Debug\netcoreapp3.1\solidConsoleDemo.genruntimeconfig.cache
